@@ -9,14 +9,14 @@ VetoDB is an open sourced SQLite3 wrapper for nodejs. Great for developers needi
 
 You can install VetoDB using npm.
 ```
-npm install vetodb
+npm install vetodb sqlite3 -g
 ```
 
 # Example
 
 ```js
-// Import VetoDB library. Replace './VetoDB' with the actual path to your library
-const VetoDB = require('./VetoDB');
+// Import VetoDB library.
+const VetoDB = require('vetodb');
 
 // Initialize the client with in-memory storage
 // The ":memory:" option tells SQLite to keep the database in RAM
