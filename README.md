@@ -12,5 +12,5 @@ You can install VetoDB using npm.
 npm install vetodb sqlite3 -g
 ```
 
-# Example
-Working on example
+# Info
+I'm still working on this. There's definite security issues (like a lack of data sanitization) so use at your own risk. Documentation coming soon!
