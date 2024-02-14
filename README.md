@@ -1,4 +1,7 @@
 # VetoDB Docs
+
+**Note that we're working on another module that fixes security and performance issues.**
+
 VetoDB is an open sourced SQLite3 wrapper for nodejs. Great for developers needing basic storage requiring the power of SQL, but feel intimidated by the language. VetoDB has some great core features while remaining lightweight.
 
 - Persistent Storage - Data doesn't disappear
